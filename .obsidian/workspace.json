@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "0fa57bb2d91daffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "61720887ff6400bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a91d24b2b25469c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/2023-09-05 目录遍历.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147830bfc9caaa68",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07a62154fcf3ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daec72fc1befb7c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6797de3e9d8d79b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07e2b5d260503eab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52ab5b6d523e5a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c37280f4bb845497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c089f3eaa47aac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTF/2023-09-05 目录遍历.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c24dd76d5537f03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTF/2023-09-05 目录遍历.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eda68f313bd1e55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ce7f433d8e4743b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTF/2023-09-05 目录遍历.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "daec72fc1befb7c4",
+  "lastOpenFiles": [
+    "CTF/WriteUp",
+    "ETFfund",
+    "CTF/2023-09-05 目录遍历.md",
+    "CTF"
+  ]
+}
